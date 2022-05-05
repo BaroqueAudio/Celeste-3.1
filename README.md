@@ -5,5 +5,5 @@ Custom scripts, tools and add-on soundbanks on events
 This is a test post for a school project of mine. Apologies if anything.
 Not sure how to compress multiple OGG files. Apologies for the individual OGG files.
 
-Feel free to download my rednition of the assets and MetaData for the game.
+Feel free to download my rendition of the assets and MetaData for the game.
 All credits goes to the original creators of the game.
